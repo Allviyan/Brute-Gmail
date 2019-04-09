@@ -1,0 +1,2 @@
+requests
+--upgrade pip
