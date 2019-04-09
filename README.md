@@ -9,11 +9,11 @@ $ pkg install python2
 
 $ pkg install nano
 
-$ pip2 install -r kntd.txt
-
 $ git clone https://github.com/Al2VyN/Brute-Gmail.git
 
 $ cd Brute-Gmail
+
+$ pip2 install -r kntd.txt
 
 $ python2 gmail.py
 
