@@ -9,7 +9,7 @@ $ pkg install python2
 
 $ pkg install nano
 
-$ git clone https://github.com/Al2VyN/Brute-Gmail.git
+$ git clone https://github.com/Allviyan/Brute-Gmail.git
 
 $ cd Brute-Gmail
 
